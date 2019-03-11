@@ -12,10 +12,10 @@ Create README
 ### Third Task
 Editing game developed with js.
 
-by : Moustafa Mohamed Anas Abdulfattah Elgamal
+by:Moustafa Mohamed Anas Abdulfattah Elgamal
 
-     Mohab Medhat Naeem Shalby
+   Mohab Medhat Naeem Shalby     
      
-     Mahmoud Mahfouz Allam
+   Mahmoud Mahfouz Allam
      
 Grade: Senior (4th grade)
